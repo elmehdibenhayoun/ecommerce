@@ -12,8 +12,8 @@ import { mergeOpenGraph } from './_utilities/mergeOpenGraph'
 import './_css/app.scss'
 
 const jost = Jost({
-  subsets : ['latin'],
-  weight: ['400','700'],
+  subsets: ['latin'],
+  weight: ['400', '700'],
   variable: '--font-jost',
 })
 
